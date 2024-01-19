@@ -1,8 +1,9 @@
 
-https://github.com/eht-ck/captionwave/assets/95522110/c1b78957-13d7-4a9d-8ee5-b4702b4f326d
 # CaptionWave
 
 CaptionWave is a Next.js application that allows users to add captions/subtitles to videos, customize the appearance of captions, and download the generated subtitles file (SRT) along with the video embedded with captions.
+## Video Demonstartion
+https://github.com/eht-ck/captionwave/assets/95522110/c1b78957-13d7-4a9d-8ee5-b4702b4f326d
 
 ## Features
 
@@ -13,15 +14,6 @@ CaptionWave is a Next.js application that allows users to add captions/subtitles
 
 ## Architecture
 ![image](https://github.com/eht-ck/captionwave/assets/95522110/91e7bfd8-98f7-4ac2-acef-3cd87b5704df)
-
-## Video Demonstartion
-
-
-
-
-https://github.com/eht-ck/captionwave/assets/95522110/cb3dc877-10a8-4437-a563-2cd1d7541263
-
-
 
 
 
